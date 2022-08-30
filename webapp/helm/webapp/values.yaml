@@ -1,5 +1,5 @@
 db_image: mongo:latest
 db_service: mongo
-image: 1645370/recipe_blog_api:latest
+image: 1645370/webapp:2022-08-30--21-54
 replicaCount: 1
 web_service: webapp

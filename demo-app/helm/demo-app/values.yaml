@@ -1,2 +1,2 @@
-image: 1645370/demo-app:latest
+image: 1645370/demo-app:latest~
 replicaCount: 1

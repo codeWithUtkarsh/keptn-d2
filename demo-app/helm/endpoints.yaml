@@ -1,0 +1,3 @@
+deploymentURIsLocal:
+  - "http://demo-app.ms1-qa:80"
+  
